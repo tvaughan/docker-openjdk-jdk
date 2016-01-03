@@ -1,5 +1,5 @@
 CONTAINER = tvaughan/openjdk-jdk
-VERSION = 8
+VERSION = 9
 
 DOCKER ?= docker
 
